@@ -32,7 +32,7 @@
 
 ### Tasks
 
-- [ ] Create MainActivity
+- [x] Create MainActivity
 - [ ] Create Navigation Graph
 - [ ] Create Student List Screen
 - [ ] Create Add Student Screen
