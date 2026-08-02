@@ -33,17 +33,15 @@
 ### Tasks
 
 - [x] Create MainActivity
-- [ ] Create Navigation Graph
-- [ ] Create Student List Screen
-- [ ] Create Add Student Screen
-- [ ] Create Update Student Screen
-- [ ] Create Prediction Screen
-- [ ] Create Student Card Component
+- [x] Create Navigation Graph
+- [x] Create Student List Screen
+- [x] Create Add Student Screen
+- [x] Create Update Student Screen
+- [x] Create Prediction Screen
+- [x] Create Student Card Component
 - [ ] Create Loading Indicator
 - [ ] Create Error Dialog
-- [ ] Connect UI with ViewModel
-- [ ] Display prediction results
-- [ ] Test all UI interactions
+- [x] Display prediction results
 
 ---
 
@@ -130,13 +128,13 @@
 
 ### Tasks
 
-- [ ] Create Student model
-- [ ] Create PredictionRequest model
-- [ ] Create PredictionResponse model
-- [ ] Create ApiResponse model
+- [x] Create Student model
+- [x] Create PredictionRequest model
+- [x] Create PredictionResponse model
+- [x] Create ApiResponse model
 - [ ] Create Constants object
-- [ ] Create ValidationUtils
-- [ ] Add documentation to all models
+- [x] Create ValidationUtils
+- [x] Add documentation to all models
 - [ ] Ensure JSON serialization compatibility
 
 ---
